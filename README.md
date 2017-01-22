@@ -25,3 +25,26 @@ Pull requests welcome, please follow the basic workflow:
 
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
 [gitter-url]: https://gitter.im/kolodny/exercises
+
+### My progress so far
+
+:x: async  
+:x: binary-search  
+:x: curry  
+:x: debounce  
+:x: flatten  
+:x: flatten-thunk  
+:x: invert-tree  
+:x: jasmine-async   
+:x: map  
+:x: memoize  
+:x: merkle  
+:x: middleware  
+:x: morse-code  
+:x: once  
+:x: sort  
+:x: throttle  
+:x: throttle-promises  
+:x: update  
+:white_check_mark: value  
+
